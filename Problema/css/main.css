@@ -1,0 +1,15 @@
+div{
+	background-color: gray;
+	width: 90px;
+	height: 90px;
+	border: 1px solid black;
+	margin: 10px
+}
+.caja2{
+	width: 350px;
+	height: 120px;
+}
+.cajaa{
+	display: inline-block;
+
+}
