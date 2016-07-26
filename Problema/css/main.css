@@ -3,13 +3,13 @@ div{
 	width: 90px;
 	height: 90px;
 	border: 1px solid black;
-	margin: 10px
+	margin: 5px
 }
 .caja2{
-	width: 350px;
-	height: 120px;
+	width: 320px;
+	padding:5px 5px 15px;
+	margin: 5px
 }
 .cajaa{
 	display: inline-block;
-
 }
